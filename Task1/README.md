@@ -21,6 +21,12 @@ The objective of this task was to **predict restaurant ratings** based on differ
 
 ---
 
+## 💻 Code
+The Jupyter Notebook for this task can be found here:  
+👉 [Task1_Notebook.ipynb](Code/Task1_Notebook.ipynb)
+
+---
+
 ## 🎥 Video Presentation
 👉 [LinkedIn Video Link](your-link-here)
 
