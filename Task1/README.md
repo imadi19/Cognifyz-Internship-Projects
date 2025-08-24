@@ -28,7 +28,7 @@ The Jupyter Notebook for this task can be found here:
 ---
 
 ## 🎥 Video Presentation
-👉 [LinkedIn Video Link](your-link-here)
+👉 [LinkedIn Video Link](https://www.linkedin.com/posts/adityarajthakur_machinelearning-datascience-ai-activity-7364546368146726914-kUrH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZP-98Bl4Z7pmCO4sIYm8mO4QP_btnSgkk)
 
 ---
 
