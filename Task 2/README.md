@@ -22,7 +22,7 @@ The objective of this task was to **build a restaurant recommendation system** t
 
 ## 💻 Code
 The Jupyter Notebook for this task can be found here:  
-👉 [Task2_Restaurant_Recommendation.ipynb](Task2_Restaurant_Recommendation/Task2_Restaurant_Recommendation.ipynb)
+👉 [Task2_Restaurant_Recommendation.ipynb](https://github.com/imadi19/Cognifyz-Internship-Projects/blob/2fef2349bf4af66d02e7af223134d4111f600ee5/Task%202/Task2_Restaurant_Recommendation.ipynb)
 
 ---
 
