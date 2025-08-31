@@ -8,8 +8,8 @@ Each task includes code, report, and results.
 ## 📂 Tasks Overview
 - [Task 1 – Predict Restaurant Ratings](Task1/README.md)  
   (Regression models to predict ratings, Random Forest performed best)
-  
-- Task 2 – (Coming soon...)  
+- [Task 2 – Restaurant Recommendation System](Task2_Restaurant_Recommendation/README.md)  
+  (Content-based filtering system recommending restaurants by name or user preferences) 
 - Task 3 – (Coming soon...)  
 
 ---
