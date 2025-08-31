@@ -16,7 +16,7 @@ The objective of this task was to **build a restaurant recommendation system** t
 ---
 
 ## 📄 Report
-👉 [Task2_Report.pdf](Task2_Restaurant_Recommendation/Task2_Report.pdf)
+👉 [Task2_Report.pdf]([Task2_Restaurant_Recommendation/Task2_Report.pdf](https://github.com/imadi19/Cognifyz-Internship-Projects/blob/6f2cfb3d752012301933883537e1fe16bbebcdf9/Task%202/Task2_Report.pdf))
 
 ---
 
