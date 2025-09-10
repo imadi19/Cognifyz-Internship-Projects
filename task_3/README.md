@@ -55,10 +55,8 @@ The model demonstrates practical application of supervised learning for multi-cl
 
 ## 📁 Project Files
 
-- `Dataset.csv` – Original dataset file.
 - `Cuisine_Classification.ipynb` – Jupyter Notebook with full code.
-- `Task3_Cuisine_Classification_Report.pdf` – Auto-generated project report.
-- `generate_report.py` – Python script to generate the PDF report.
+- `Task3_Cuisine_Classification_Report.pdf` – Project report.
 - `README.md` – This project documentation.
 
 ---
