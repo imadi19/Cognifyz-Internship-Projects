@@ -12,7 +12,9 @@ Each task includes code, report, and results.
 - [Task 2 – Restaurant Recommendation System](https://github.com/imadi19/Cognifyz-Internship-Projects/blob/4fc19cdf3008bc01594682dfc86a635b50b42899/Task%202/README.md)
 
   (Content-based filtering system recommending restaurants by name or user preferences) 
-- [Task 3 – (Cuisine Classification)](https://github.com/imadi19/Cognifyz-Internship-Projects/blob/main/task_3/README.md)  
+- [Task 3 – (Cuisine Classification)](https://github.com/imadi19/Cognifyz-Internship-Projects/blob/main/task_3/README.md)
+
+  (A machine learning model classifying restaurants based on primary cuisine using features such as location, ratings, cost, and votes)
 
 ---
 
